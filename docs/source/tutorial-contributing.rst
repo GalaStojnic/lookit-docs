@@ -120,7 +120,7 @@ List of tutorial participants
 - Estelle Hervé (AMU)
 - Isabel Nichoson (Wellesley College)
 - Ginni Strehle (UT Dallas)
-
+- Gala Stojnic (NYU)
 .. _Github issues overview:
 
 Checking for and creating issues on Github
